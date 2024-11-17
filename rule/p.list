@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,ptvicomo.net 
 DOMAIN-SUFFIX,1ptba.com 
 DOMAIN-SUFFIX,bewildcard.com 
-DOMAIN-SUFFIX,star-space.net 
+#DOMAIN-SUFFIX,star-space.net 
 DOMAIN-SUFFIX,tracker.ptvicomo.net 
 DOMAIN-SUFFIX,ptvicomo.net 
 DOMAIN-SUFFIX,hdkyl.in 
