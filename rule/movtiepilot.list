@@ -1,0 +1,16 @@
+# AUTHOR: Suerwei
+#moviePilot
+#moviedb
+DOMAIN,api.themoviedb.org
+DOMAIN,api.tmdb.org
+DOMAIN,www.themoviedb.org
+DOMAIN,themoviedb.org
+DOMAIN,webservice.fanart.tv
+DOMAIN,api.telegram.org
+DOMAIN,slack.com
+DOMAIN,github.com
+DOMAIN,api.github.com
+DOMAIN,raw.githubusercontent.com
+DOMAIN-KEYWORD,themoviedb
+DOMAIN-KEYWORD,tmdb
+DOMAIN-KEYWORD,telegram
